@@ -1,1 +1,3 @@
-# wine_quality_keras_gridsearch
+First cleaned and checked for null values.
+Data visualized.
+Wine quality is predicted in keras model.
